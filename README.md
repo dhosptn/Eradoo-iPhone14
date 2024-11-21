@@ -4,7 +4,7 @@ Eradoo adalah website promosi untuk iPhone 14 yang dirancang dengan desain moder
 
 ## Demo
 
-Tangkapan layar proyek dan demo langsung dapat ditambahkan jika tersedia.
+https://dhosptn.github.io/Eradoo-iPhone14/
 
 ---
 
